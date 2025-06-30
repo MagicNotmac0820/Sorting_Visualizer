@@ -1,7 +1,7 @@
 # Sorting_Visualizer
 
 ## Introduction
-A project to visualize some famous sorting algorithm.
+A project to visualize some famous sorting algorithms using terminal.
 Below are sorting algorithms which are implemented in this project:
 - [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
 - [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort)
