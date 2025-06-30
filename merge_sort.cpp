@@ -49,6 +49,8 @@ void sorting_algorithm( vector<int> &nums , Compare _cmp = std::less<int>() ){
 }
 
 int main(void){
+    cout << WHITE << "Please enter the number of data items to be sorted: " << DEFAULT ;
+    
     int numsSize ;
     cin >> numsSize ;
     vector<int> nums(numsSize) ;
